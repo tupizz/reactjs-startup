@@ -32,6 +32,7 @@ module.exports = {
           'warn',
           { extensions: ['.jsx', '.js'] }
       ],
+      'react/static-property-placement': 0,
       'import/prefer-default-export': 'off'
   },
 };
